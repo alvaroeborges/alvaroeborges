@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**alvaroeborges/alvaroeborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Álvaro Borges 👋
 
-Here are some ideas to get you started:
+Sou um desenvolvedor em constante evolução, focado em construir interfaces modernas e funcionais. Atualmente, estou mergulhado no ecossistema Front-end para criar experiências digitais incríveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias que estudo:
+* **Linguagens:** HTML5, CSS e JavaScript 
+* **Biblioteca:** React.js
+* **Ferramentas:** Git, GitHub e VS Code
+
+---
+📫 **Como me encontrar:** www.linkedin.com/in/alvaroborgesdev
+
+🎯 Meus objetivos atuais:
+- 🚀 Dominar Hooks e State Management no React.
+- 🎨 Aperfeiçoar técnicas de CSS Avançado e JavaScript.
+- 🤝 Colaborar em projetos Open Source.
+
+
+
